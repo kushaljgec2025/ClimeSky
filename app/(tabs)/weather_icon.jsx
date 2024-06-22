@@ -1,0 +1,21 @@
+const weather_icon = {
+  "01d": require("@/assets/weather_icons/clear_day.png"),
+  "01n": require("@/assets/weather_icons/clear_night.png"),
+  "02d": require("@/assets/weather_icons/fewclouds_day.png"),
+  "02n": require("@/assets/weather_icons/fewclouds_night.png"),
+  "03d": require("@/assets/weather_icons/cloudy_day.png"),
+  "03n": require("@/assets/weather_icons/cloudy_night.png"),
+  "04d": require("@/assets/weather_icons/cloudy_day.png"),
+  "04n": require("@/assets/weather_icons/cloudy_night.png"),
+  "09d": require("@/assets/weather_icons/shower_day.png"),
+  "09n": require("@/assets/weather_icons/shower_night.png"),
+  "10d": require("@/assets/weather_icons/rain.png"),
+  "10n": require("@/assets/weather_icons/rain.png"),
+  "11d": require("@/assets/weather_icons/thunder.png"),
+  "11n": require("@/assets/weather_icons/thunder.png"),
+  "13d": require("@/assets/weather_icons/snow.png"),
+  "13n": require("@/assets/weather_icons/snow.png"),
+  "50d": require("@/assets/weather_icons/mist.png"),
+  "50n": require("@/assets/weather_icons/mist.png"),
+};
+export default weather_icon;
