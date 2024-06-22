@@ -1,3 +1,18 @@
+# Summary of Major Achievements
+
+- Implemented new feature enhancements in the company's flagship product.
+- Led a cross-functional team to successfully deliver project milestones ahead of schedule.
+- Achieved a 20% increase in customer satisfaction through improved service processes.
+- Developed and launched a mobile app that garnered 100,000+ downloads within the first month.
+- Received Employee of the Year award for outstanding performance and dedication.
+
+# Sample Image
+
+![Frame 1 (1)](https://github.com/kushaljgec2025/ClimeSky/assets/108950724/4ad5abfd-17d8-43fe-b731-f8d0de7b7907)
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
